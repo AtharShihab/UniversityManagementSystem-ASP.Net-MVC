@@ -1,0 +1,158 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "SaveCourse";
+    List<Department> departments = ViewBag.Departments;
+}
+
+@section style
+{
+    <style>
+        label.error { color: red; }
+    </style>
+}
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        label.error { color: red; }
+    </style>
+</head>
+<body>*@
+
+
+<fieldset>
+    <legend>Save Course</legend>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-8">
+                <form id="saveCourseForm" method="POST">
+                    <div class="form-group">
+                        <label for="CourseCode">Code</label>
+                        <input id="CourseCode" name="CourseCode" type="text" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="CourseName">Name</label>
+                        <input id="CourseName" name="CourseName" type="text" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Credit">Credit</label>
+                        <input id="Credit" name="Credit" type="text" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="CourseDescription">Description</label>
+                        <textarea id="CourseDescription" name="CourseDescription" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="DepartmentId">Department</label>
+                        <select id="DepartmentId" name="DepartmentId" class="form-control">
+                            <option value="">--Select--</option>
+                            @foreach (Department department in departments)
+                            {
+                                <option value="@department.DeptId">@department.DeptName</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Semester">Semester</label>
+                        <select id="Semester" name="Semester" class="form-control">
+                            <option value="">--Select--</option>
+                            <option value="1st">1st Semester</option>
+                            <option value="2nd">2nd Semester</option>
+                            <option value="3rd">3rd Semester</option>
+                            <option value="4th">4th Semester</option>
+                            <option value="5th">5th Semester</option>
+                            <option value="6th">6th Semester</option>
+                            <option value="7th">7th Semester</option>
+                            <option value="8th">8th Semester</option>
+                        </select>
+                    </div>
+                    <div>
+                        <button class="btn btn-primary" type="submit" >Save</button>
+                    </div>
+                    @if (ViewBag.Message != null)
+                    {
+                        <h3>@ViewBag.Message</h3>
+                    }
+                </form>
+            </div>
+
+        </div>
+    </div>
+</fieldset>
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $("#saveCourseForm").validate({
+            rules: {
+                CourseCode: {
+                    required: true,
+                    minLength: 5
+                },
+                CourseName: "required",
+                Credit: {
+                    required: true,
+                    min: 0.5,
+                    max: 5.0,
+                    number: true
+                },
+                CourseDescription: "required",
+                DepartmentId: "required",
+                Semester: "required"
+            },
+            messages: {
+                CourseCode: {
+                    required: "Please enter a course code",
+                    minLength: "Course code must be atleast 5 character long"
+                },
+                CourseName: "Please enter course name",
+                Credit: {
+                    required: "Please enter a credit value",
+                    min: "Credit can not be less than 0.5",
+                    max: "Credit can not be greater than 5.0",
+                    number: "Credit must be a decimal number"
+                },
+                DepartmentId: "Please select a Department",
+                Semester: "Please select a Semester"
+            }
+        });
+    </script>
+}
+
+@*<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script>
+    $("#saveCourseForm").validate({
+        rules: {
+            CourseCode: "required",
+            CourseName: "required",
+            Credit: {
+                required: true,
+                min: 0.5,
+                max: 5.0,
+                number: true
+            },
+            DepartmentId: "required",
+            Semester: "required"
+        },
+        messages: {
+            CourseCode: "Please enter course code",
+            CourseName: "Please enter course name",
+            Credit: {
+                required: "Please enter a credit value",
+                min: "Credit can not be less than 0.5",
+                max: "Credit can not be greater than 5.0",
+                number: "Credit must be a decimal number"
+            },
+            DepartmentId: "Please select a Department",
+            Semester: "Please select a Semester"
+        }
+    });
+</script>
+</body>
+</html>*@

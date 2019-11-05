@@ -1,0 +1,126 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "RegisterStudent";
+
+    List<Department> departments = ViewBag.Departments;
+}
+
+@section style
+{
+    <link href="~/Scripts/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet"/>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+}
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="~/Scripts/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet" />
+</head>
+<body>*@
+<fieldset>
+    <legend>Register Student</legend>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-8">
+                <form id="studentRegistrationForm" method="POST">
+                    <div class="form-group">
+                        <label for="StudentName">Name</label>
+                        <input id="StudentName" name="StudentName" type="text" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input id="Email" name="Email" type="text" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="ContactNo">Contact No.</label>
+                        <input id="ContactNo" name="ContactNo" type="text" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="RegDate">Date</label>
+                        <input id="RegDate" name="RegDate" type="text" value="@DateTime.Today.ToString("MM/dd/yyyy")" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="Address">Address</label>
+                        <textarea id="Address" name="Address" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="DepartmentId">Department</label>
+                        <select id="DepartmentId" name="DepartmentId" class="form-control">
+                            <option value="">--Select--</option>
+                            @foreach (Department department in departments)
+                            {
+                                <option value="@department.DeptId">@department.DeptName</option>
+                            }
+                        </select>
+                    </div>
+                    <div>
+                        <button class="btn btn-primary" type="submit">Register</button>
+                    </div>
+                    <div>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>@ViewBag.Message</h3>
+                        }
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script>
+    @*==Datepicker==*@
+    $(function() {
+        $("#RegDate").datepicker({
+            changeMonth: true,
+            changeYear: true
+        });
+    });
+    @*==Datepicker==*@
+
+    @*==Validation==*@
+    $("#studentRegistrationForm").validate({
+        rules: {
+            StudentName: "required",
+            Email: {
+                required: true,
+                email: true
+            },
+            ContactNo: "required",
+            RegDate: "required",
+            Address: "required",
+            DepartmentId: "required",
+        },
+        messages: {
+            StudentName: "Please enter student name",
+            Email: {
+                required: "Please enter an email address",
+                email: "Please enter a valid email address"
+            },
+            ContactNo: "Please enter contact information",
+            RegDate: "Please select todays date",
+            Address: "Please enter student address",
+            DepartmentId: "Please select a department",
+        }
+    });
+    @*==Validation==*@
+
+
+</script>
+}
+
+@*
+</body>
+</html>
+*@

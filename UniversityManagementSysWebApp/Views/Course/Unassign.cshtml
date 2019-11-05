@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Unassign";
+}
+
+<h2>Unassign</h2>
+<h1>@ViewBag.Courses</h1>
+<form method="post">
+    <button class="btn btn-primary" type="submit" onclick="return confirm('WARNING!!! It will unassign all teacher from all course. Do you want to continue?')">Unassign All Courses</button>
+</form>
+

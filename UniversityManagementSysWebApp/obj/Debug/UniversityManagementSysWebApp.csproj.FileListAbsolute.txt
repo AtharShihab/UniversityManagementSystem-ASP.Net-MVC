@@ -1,0 +1,1004 @@
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+J:\tutorials\BITM\Home Task\Practice\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+G:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+L:\Demo\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+G:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+L:\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Demo 2\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Trainer 402\Desktop\Demo 2\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on)\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+C:\Users\Shihab\Desktop\UniversityManagementSysWebApp (currently working on) - for PDF\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+E:\bitm\Final version\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+M:\Torrent\Compressed\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+L:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+H:\Final version after design\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojAssemblyReference.cache
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csproj.CoreCompileInputs.cache
+L:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csproj.CopyComplete
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll.config
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\UniversityManagementSysWebApp.pdb
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Web.Infrastructure.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Owin.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.Core.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Rotativa.MVC.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\WebGrease.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Helpers.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Mvc.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Optimization.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.Razor.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Deployment.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\System.Web.WebPages.Razor.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Newtonsoft.Json.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Antlr3.Runtime.pdb
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\EntityFramework.SqlServer.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Google.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.csprojResolveAssemblyReference.cache
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.dll
+M:\Final version after design\Star\UniversityManagementSysWebApp\UniversityManagementSysWebApp\UniversityManagementSysWebApp\obj\Debug\UniversityManagementSysWebApp.pdb

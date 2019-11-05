@@ -1,0 +1,85 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "ViewClassScheduleAndRoomAllocationInformation";
+    List<Department> departments = ViewBag.Departments;
+}
+
+
+
+
+<fieldset>
+    <legend>View Class Schedule and Room Allocation Information</legend>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-5">
+                <div class="container">
+                    <label for="DepartmentId">Department</label>
+
+                    <select id="DepartmentId" name="DepartmentId" class="form-control">
+                        <option value="">--Select--</option>
+                        @foreach (Department department in departments)
+                        {
+                            <option value="@department.DeptId">@department.DeptName</option>
+                        }
+                    </select>
+
+                    <h3>Class Schedule</h3>
+                    <table class="table table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Course Code</th>
+                                <th>Name</th>
+                                <th>Schedule Info</th>
+                            </tr>
+                        </thead>
+                        <tbody id="classSchedule"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script>
+
+        $(document).ready(function() {
+
+            $("#DepartmentId").change(function() {
+                var departmentId = $("#DepartmentId").val();
+
+                var json = { deptId: departmentId };
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetClassSchedule", "ClassroomAllocation")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function(data) {
+
+                        $("#classSchedule").empty();
+
+                        $.each(data, function(key, value) {
+                            var scheduleInfo = "Not Scheduled Yet";
+                            if (value.Schedule.length !== 0) {
+                                scheduleInfo = "";
+                                $.each(value.Schedule, function (index, info) {
+                                    scheduleInfo += "R.No: " + info.RoomNo + ", " + info.AllocatedDay.substring(0, 3) + ", " + info.StartTime + " - " + info.EndTime + "<br>";
+                                });
+                            }
+                            
+
+                            $("#classSchedule").append('<tr><td>' + value.CourseCode + '</td>  <td>' + value.CourseName + '</td>  <td>' + scheduleInfo + '</td></tr>');
+
+                        });
+
+                    }
+                });
+            });
+        });
+    </script>
+}

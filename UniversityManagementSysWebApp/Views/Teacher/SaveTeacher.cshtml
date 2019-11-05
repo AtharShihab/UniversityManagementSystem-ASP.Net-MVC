@@ -1,0 +1,176 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "SaveTeacher";
+    List<Department> departments = ViewBag.Departments;
+    List<Designation> designations = ViewBag.Designations;
+}
+
+@section style
+{
+    <style>
+        label.error { color: red; }
+    </style>
+}
+
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        label.error { color: red; }
+    </style>
+</head>
+<body>*@
+
+
+<fieldset>
+    <legend>Save Teacher</legend>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-8">
+                <form id="saveTeacherForm" method="POST">
+
+                    <div class="form-group">
+                        <label for="TeacherName">Name</label>
+                        <input id="TeacherName" name="TeacherName" type="text" class="form-control"/>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Address">Address</label>
+                        <textarea id="Address" name="Address" class="form-control"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input id="Email" name="Email" type="text" class="form-control" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ContactNo">Contact No.</label>
+                        <input id="ContactNo" name="ContactNo" type="text" class="form-control" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="DesignationId">Designation</label>
+                        <select id="DesignationId" name="DesignationId" class="form-control">
+                            <option value="">--select--</option>
+                            @foreach (Designation designation in designations)
+                            {
+                                <option value="@designation.DesignationId">@designation.DesignationName</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="DepartmentId">Department</label>
+                        <select id="DepartmentId" name="DepartmentId" class="form-control">
+                            <option value="">--select--</option>
+                            @foreach (Department department in departments)
+                            {
+                                <option value="@department.DeptId">@department.DeptName</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="CreditToBeTaken">Credit to be taken</label>
+                        <input id="CreditToBeTaken" name="CreditToBeTaken" type="text" class="form-control" />
+                    </div>
+
+                    <div>
+                        <button class="btn btn-primary" type="submit">Save</button>
+                    </div>
+
+                    <div>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>@ViewBag.Message</h3>
+                        }
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</fieldset>
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $("#saveTeacherForm").validate({
+            rules: {
+                TeacherName: "required",
+                Address: "required",
+                Email: {
+                    required: true,
+                    email: true
+                },
+                ContactNo: "required",
+                DesignationId: "required",
+                DepartmentId: "required",
+                CreditToBeTaken: {
+                    required: true,
+                    min: 0.000
+                }
+            },
+            messages: {
+                TeacherName: "Please enter teacher name",
+                Address: "Please enter teacher address",
+                Email: {
+                    required: "Please enter an email address",
+                    email: "Please enter a valid email address"
+                },
+                ContactNo: "Please enter contact information",
+                DesignationId: "Please select your designation",
+                DepartmentId: "Please select a department",
+                CreditToBeTaken: {
+                    required: "Please enter how much credit you want to take",
+                    min: "Must enter a non negative value"
+                }
+            }
+        });
+    </script>
+}
+
+@*<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script>
+    $("#saveTeacherForm").validate({
+        rules: {
+            TeacherName: "required",
+            Address: "required",
+            Email: {
+                required: true,
+                email: true
+            },
+            ContactNo: "required",
+            DesignationId: "required",
+            DepartmentId: "required",
+            CreditToBeTaken: {
+                required: true,
+                min: 0.000
+            }
+        },
+        messages: {
+            TeacherName: "Please enter teacher name",
+            Address: "Please enter teacher address",
+            Email: {
+                required: "Please enter an email address",
+                email: "Please enter a valid email address"
+            },
+            ContactNo: "Please enter contact information",
+            DesignationId: "Please select your designation",
+            DepartmentId: "Please select a department",
+            CreditToBeTaken: {
+                required: "Please enter how much credit you want to take",
+                min: "Must enter a non negative value"
+            }
+        }
+    });
+</script>
+</body>
+</html>*@

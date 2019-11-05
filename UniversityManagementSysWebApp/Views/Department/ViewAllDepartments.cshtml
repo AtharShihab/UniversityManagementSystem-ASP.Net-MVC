@@ -1,0 +1,61 @@
+﻿@using UniversityManagementSysWebApp.Models
+@model IEnumerable<Department>
+@{
+    ViewBag.Title = "ViewAllDepartments";
+}
+
+@section style
+{
+    <style>
+        .container table {
+            text-align: center;
+        }
+         
+    </style>
+}
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        #viewAllDepartmentsTable { border: 1px solid black; }
+
+        #viewAllDepartmentsTable tr td { border: 1px solid black; }
+
+        #viewAllDepartmentsTable thead {
+            background: gainsboro;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>*@
+
+
+<fieldset>
+    <legend>View All Departments</legend>
+    <div class="container">
+        <table id="viewAllDepartmentsTable" class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Code</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Department aDepartment in Model)
+                {
+                    <tr>
+                        <td>@aDepartment.DeptCode</td>
+                        <td>@aDepartment.DeptName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</fieldset>
+
+
+@*
+</body>
+</html>
+*@

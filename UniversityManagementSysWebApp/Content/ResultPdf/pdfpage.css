@@ -1,0 +1,65 @@
+﻿body {
+    margin:0px;
+    padding:0px;
+   
+}
+
+#Versityname{
+    color:darkblue;
+    text-align:center;
+    font-size:50px;
+    font-family:Calibri;
+    font-weight:bold;
+    
+}
+#Address{
+    text-align:center;
+   
+}
+#img {
+    margin-top:100px;
+  height:200px;
+  width:200px;
+ 
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.logo{
+ 
+}
+.content{
+
+}
+.content .text{
+    font-size:20px;
+    font-family:Calibri;
+    padding:20px;
+    font-size:35px;
+}
+.Details{
+    margin:40px;
+    font-size:25px;
+    font-family:Calibri;
+}
+.Details .field{
+    font-weight:bold;
+    padding:10px 10px;
+    padding-right:50px;
+    
+    font-size:20px;
+}
+.CourseResult
+{
+    font-family:Calibri;
+    font-size:20px;
+    margin:5px;
+}
+.dash{
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+}
+.border{
+    border:none;
+}

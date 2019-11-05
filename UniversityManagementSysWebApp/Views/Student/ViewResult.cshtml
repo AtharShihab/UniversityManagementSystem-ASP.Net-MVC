@@ -1,0 +1,135 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "ViewResult";
+}
+<fieldset>
+    <legend>View Result</legend>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-5">
+                <form action="CreatePdf" method="post">
+                    <label for="StudentId">Student Reg. No.</label>
+                    <select id="StudentId" name="StudentId" class="form-control">
+                        <option value="">--Select-- </option>
+                        @foreach (Result item in ViewBag.Students)
+                        {
+                            <option value="@item.StudentId">@item.RegId</option>
+                        }
+                    </select>
+                    <input type="hidden" name="RegId" id="RegId" placeholder="<View>" style="text-align: center" />
+
+                    <div class="form-group">
+                        <label for="StudentName">Name</label>
+                        <input type="text" name="StudentName" id="StudentName" class="form-control" style="text-align: center" readonly="readonly" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input type="email" name="Email" id="Email" class="form-control" placeholder="<View>" style="text-align: center" readonly="readonly" />
+                    </div>
+                    <div class="form-group">
+                        <label for="DepartmentName">Department Name</label>
+                        <input type="hidden" name="DepartmentId" id="DepartmentId" placeholder="<View>" style="text-align: center" />
+                        <input type="text" name="DepartmentName" id="DepartmentName" class="form-control" placeholder="<View>" style="text-align: center" readonly="readonly" />
+
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Make PDF</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br /><br />
+    <div class="container">
+
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Course Code</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            <tbody id="CourseId"></tbody>
+        </table>
+    </div>
+</fieldset>
+@section script
+{
+    <script>
+    $(function () {
+        $("#StudentId").change(function () {
+            var stuId = $("#StudentId").val();
+            
+
+            //    $("#StudentName").empty();
+            var dataSend = { StudentId: stuId };
+            $.ajax({
+
+                type: "POST",
+                url: '@Url.Action("GetByPerson", "Student")',
+                    //url: "/None/GetCourseByDepartmentId",
+                    contentType: "application/json",
+                    data: JSON.stringify(dataSend),
+                    success: function (response) {
+                        if (response !== "") {
+                            for (var i = 0; i < response.length; i++) {
+                                $("#StudentName").val(response[i].StudentName);
+                                $("#Email").val(response[i].Email);
+                                $("#RegId").val(response[i].RegId);
+                                $("#DepartmentId").val(response[i].DepartmentId);
+                                $("#DepartmentName").val(response[i].DepartmentName);
+                            }
+
+                        }
+
+
+                    }
+
+                    //success: function (response) {
+
+
+                    //    $('#StudentName').val(response["StudentName"]);
+                    //    console.log(StudentName);
+                        //$.each(response, function (key, value) {
+                        //    // alert(key);
+                        //    $('#CourseId').append('<option value="' + value.Id + '">' + value.Courses + '</option>');
+                        //});
+                    //}
+
+                });
+            });
+
+        });
+    </script>
+    <script>
+    $(function () {
+        $("#StudentId").change(function () {
+            var stuId = $("#StudentId").val();
+
+            $("#CourseId").empty();
+            var dataSend = { StudentId: stuId };
+            $.ajax({
+
+                type: "POST",
+                url: '@Url.Action("GetByCourses", "Student")',
+                    //url: "/None/GetCourseByDepartmentId",
+                    contentType: "application/json",
+                    data: JSON.stringify(dataSend),
+                    success: function (response) {
+                        if (response !== "") {
+                            for (var i = 0; i < response.length; i++) {
+                                $("#CourseId").append("<tr><td>" + response[i].CourseCode + "</td><td>" + response[i].CourseName + "</td><td>" + response[i].Grade + "</td></tr>");
+                            }
+
+                        }
+
+                    }
+
+                });
+            });
+
+        });
+    </script>
+
+}

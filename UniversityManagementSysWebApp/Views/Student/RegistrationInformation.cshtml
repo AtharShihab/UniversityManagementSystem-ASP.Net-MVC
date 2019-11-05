@@ -1,0 +1,106 @@
+﻿@using UniversityManagementSysWebApp.Models
+@model Student
+@{
+    ViewBag.Title = "RegistrationInformation";
+    Department department = ViewBag.Department;
+}
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+<body>*@
+@section style
+{
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="~/Content/ResultPdf/pdfpage.css" rel="stylesheet"/>
+}
+
+<div class="logo">
+    <img id="img" align="middle" src="~/Content/datatables.extensions/Scroller/images/BITM-LOTGO1.png" />
+    <h3 id="Versityname">BITM University</h3>
+    <h4 id="Address">Chattogram, Bangladesh</h4>
+</div>
+
+<div class="content">
+    <fieldset>
+        <legend class="text">Registration Details</legend>
+        <div class="Details">
+            <table>
+                <tr>
+                    <td class="field">
+                        Registration ID
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.RegId
+                    </td>
+                </tr>
+                <tr>
+                    <td class ="field">
+                        Name
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.StudentName
+                    </td>
+                </tr>
+                <tr>
+                    <td class="field">
+                        Email
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.Email
+                    </td>
+                </tr>
+                <tr>
+                    <td class="field">
+                        Contact No.
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.ContactNo
+                    </td>
+                </tr>
+                <tr>
+                    <td class="field">
+                        Date
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.RegDate.ToString("d")
+                    </td>
+                </tr>
+                <tr>
+                    <td class="field">
+                        Address
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @Model.Address
+                    </td>
+                </tr>
+                <tr>
+                    <td class="field">
+                        Department
+                    </td>
+                    <td>:</td>
+                    <td>
+                        @department.DeptCode
+                    </td>
+                </tr>
+                <tr>
+            </table>
+        </div>
+    </fieldset>
+</div>
+
+
+@*
+</body>
+</html>
+
+*@
+

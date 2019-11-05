@@ -1,0 +1,181 @@
+﻿@using UniversityManagementSysWebApp.Models
+@model UniversityManagementSysWebApp.Models.ClassroomAllocation
+@{
+    ViewBag.Title = "Index";
+    List<Department> departments = ViewBag.Departments;
+    List<Room> classRooms = ViewBag.Rooms;
+    
+}
+
+@section style
+{
+    <link href="~/Scripts/jquery-timepicker-12-hour-format/dist/wickedpicker.min.css" rel="stylesheet"/>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+    
+}
+
+
+<fieldset>
+    <legend>Allocate Classrooms</legend>
+    @if (ViewBag.Message != null)
+    {
+        <h1>@ViewBag.Message</h1>
+    }
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-5">
+                <form id="classroomAllocationForm" method="POST">
+                    <div class="form-group">
+                        <label for="DepartmentId">Department</label>
+                        <select id="DepartmentId" name="DepartmentId" class="form-control">
+                            <option value="">--Select--</option>
+                            @foreach (Department department in departments)
+                            {
+                                <option value="@department.DeptId">@department.DeptName</option>
+                            }
+                        </select>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="CourseId">Course</label>
+                        <select id="CourseId" name="CourseId" class="form-control">
+                            <option value="">--Select--</option>
+                        </select>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="RoomId">Room NO</label>
+                        <select id="RoomId" name="RoomId" class="form-control">
+                            <option value="">--Select--</option>
+                            @foreach (Room room in classRooms)
+                            {
+                                <option value="@room.Id">@room.RoomNo</option>
+                            }
+                        </select>
+                    </div>
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.AllocatedDay, "Day")
+                        @Html.DropDownListFor(m => m.AllocatedDay, new SelectList(ViewBag.Days, "Value", "Text"), new {@class="form-control"})
+                    </div>
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.StartTime, "From")
+                        <input id="StartTime" name="StartTime" type="text" class="form-control"/>
+                    </div>
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.EndTime, "To")
+                        <input id="EndTime" name="EndTime" type="text" class="form-control"/>
+                    </div>
+
+
+                    <div>
+                        <button class="btn btn-primary" type="submit">Allocate</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery-timepicker-12-hour-format/dist/wickedpicker.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        var options = {
+            now: "12:35", //hh:mm 24 hour format only, defaults to current time
+            twentyFour: false, //Display 24 hour format, defaults to false
+            upArrow: 'wickedpicker__controls__control-up', //The up arrow class selector to use, for custom CSS
+            downArrow: 'wickedpicker__controls__control-down', //The down arrow class selector to use, for custom CSS
+            close: 'wickedpicker__close', //The close class selector to use, for custom CSS
+            hoverState: 'hover-state', //The hover state class to use, for custom CSS
+            title: 'Timepicker', //The Wickedpicker's title,
+            showSeconds: false, //Whether or not to show seconds,
+            timeSeparator: ' : ', // The string to put in between hours and minutes (and seconds)
+            secondsInterval: 1, //Change interval for seconds, defaults to 1,
+            minutesInterval: 5, //Change interval for minutes, defaults to 1
+            beforeShow: null, //A function to be called before the Wickedpicker is shown
+            afterShow: null, //A function to be called after the Wickedpicker is closed/hidden
+            show: null, //A function to be called when the Wickedpicker is shown
+            clearable: true, //Make the picker's input clearable (has clickable "x")
+        };
+        $('#StartTime').wickedpicker(options);
+        $('#EndTime').wickedpicker(options);
+
+        $(document).ready(function() {
+
+            $("#DepartmentId").change(function () {
+
+                var departmentId = $("#DepartmentId").val();
+                
+                /*if (departmentId !== "") {*/
+                    var json = { deptId: departmentId };
+
+                    
+
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetAllCoursesWithDepartmentId", "Course")',
+
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function(data) {
+
+                            $("#CourseId").empty();
+                            $("#CourseId").append('<option value="">--select--</option>');
+                            $.each(data, function(key, value) {
+
+                                $("#CourseId").append('<option value="' + value.CourseId + '">' + value.CourseCode + '</option>');
+
+                            });
+                        }
+                    });
+                /*} else {
+                    
+                    $("#CourseId").empty();
+                    $("#CourseId").append('<option value="">--select--</option>');
+                    
+                }*/
+
+
+            });
+
+        });
+
+        $("#classroomAllocationForm").validate({
+            rules: {
+                DepartmentId: "required",
+                CourseId: "required",
+                RoomId: "required",
+                AllocatedDay: "required",
+                StartTime: "required",
+                EndTime: "required"
+            },
+            messages: {
+                DepartmentId: "Please select a department",
+                CourseId: "Please select a course",
+                RoomId: "Please select a room",
+                AllocatedDay: "Please select a day",
+                StartTime: "Please enter a start time",
+                EndTime: "Please enter a end time"
+            }
+        });
+    </script>
+
+}
+

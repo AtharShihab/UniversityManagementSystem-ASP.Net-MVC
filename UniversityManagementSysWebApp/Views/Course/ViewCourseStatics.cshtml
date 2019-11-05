@@ -1,0 +1,138 @@
+﻿@using UniversityManagementSysWebApp.Models
+
+@{
+    ViewBag.Title = "ViewCourseStatics";
+    List<Department> departments = ViewBag.Departments;
+}
+
+@section style
+{
+    @*<style>
+        #courseStaticsTable td {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        #courseStaticsTable thead { background: gainsboro; }
+    </style>*@
+
+}
+
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        #courseStaticsTable td {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        #courseStaticsTable thead { background: gainsboro; }
+    </style>
+</head>
+<body>*@
+
+
+<fieldset>
+    <legend>View Course Statics</legend>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-8">
+                <div class="container">
+                    <label for="DepartmentId">Department</label>
+                    <select id="DepartmentId" name="DepartmentId" class="form-control">
+                        <option value="">--Select--</option>
+                        @foreach (Department department in departments)
+                        {
+                            <option value="@department.DeptId">@department.DeptName</option>
+                        }
+                    </select>
+
+                    <h3>Course Information</h3>
+                    <table id="courseStaticsTable" class="table table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Code</th>
+                                <th>Name/Title</th>
+                                <th>Semester</th>
+                                <th>Assigned To</th>
+                            </tr>
+                        </thead>
+                        <tbody id="CourseStatics"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script>
+
+        $(document).ready(function() {
+
+            $("#DepartmentId").change(function() {
+                var departmentId = $("#DepartmentId").val();
+
+                var json = { deptId: departmentId };
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetAllCoursesWithDepartmentId", "Course")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function(data) {
+
+                        $("#CourseStatics").empty();
+
+                        $.each(data, function(key, value) {
+
+                            $("#CourseStatics").append('<tr><td>' + value.CourseCode + '</td>  <td>' + value.CourseName + '</td>  <td>' + value.Semester + '</td>  <td>' + value.TeacherName + '</td></tr>');
+
+                        });
+
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+@*
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+
+    $(document).ready(function() {
+
+        $("#DepartmentId").change(function() {
+            var departmentId = $("#DepartmentId").val();
+
+            var json = { deptId: departmentId };
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetAllCoursesWithDepartmentId", "Course")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function(data) {
+
+                    $("#CourseStatics").empty();
+
+                    $.each(data, function(key, value) {
+
+                        $("#CourseStatics").append('<tr><td>' + value.CourseCode + '</td>  <td>' + value.CourseName + '</td>  <td>' + value.Semester + '</td>  <td>' + value.TeacherName + '</td></tr>');
+
+                    });
+
+                }
+            });
+        });
+    });
+</script>
+</body>
+</html>
+*@

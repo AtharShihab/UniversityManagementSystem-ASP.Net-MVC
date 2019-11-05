@@ -1,0 +1,92 @@
+﻿@using UniversityManagementSysWebApp.Models
+@model Result
+@{
+    ViewBag.Title = "ResultAsPdf";
+    Layout = null;
+    List<ResultVM> results = ViewBag.Results;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BITM University</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="~/Content/ResultPdf/pdfpage.css" rel="stylesheet"/>
+
+</head>
+<body>
+<div class="logo">
+    <img id="img" align="middle" src="~/Content/datatables.extensions/Scroller/images/BITM-LOTGO1.png"/>
+    <h3 id="Versityname">BITM University</h3>
+    <h4 id="Address">Chattogram, Bangladesh</h4>
+</div>
+
+<div class="content">
+    <fieldset>
+        <legend class="text">Result of @Model.StudentName</legend>
+        <div class="Details">
+            <table>
+                <tr>
+                    <td class="field">Registration Id</td>
+                    <td>:</td>
+                    <td>@Model.RegId</td>
+                </tr>
+                <tr>
+                    <td class="field">Name</td>
+                    <td>:</td>
+                    <td>@Model.StudentName</td>
+                </tr>
+                <tr>
+                    <td class="field">Email</td>
+                    <td>:</td>
+                    <td>@Model.Email</td>
+                </tr>
+                <tr>
+                    <td class="field">Department</td>
+                    <td>:</td>
+                    <td>@Model.DepartmentName</td>
+                </tr>
+            </table>
+        </div>
+        <h3 class="dash">Courses Results</h3>
+
+        @if (results.Count != 0)
+        {<div class="CourseResult">
+             <table class=" table table-hover">
+                 <thead>
+                 <tr>
+                     <th>Course Code</th>
+                     <th></th>
+                     <th>Name</th>
+                     <th></th>
+                     <th>Grade</th>
+                 </tr>
+                 </thead>
+                 <tbody>
+                 @foreach (ResultVM result in results)
+                 {
+                     <tr class="border">
+                         <td>@result.CourseCode</td>
+                         <td>-</td>
+                         <td>@result.CourseName</td>
+                         <td>-</td>
+                         <td>@result.Grade</td>
+                     </tr>
+                 }
+                 </tbody>
+             </table>
+         </div>
+        }
+        else
+        {
+            <div>
+                <h4>You have not enrolled in any courses</h4>
+            </div>
+        }
+    </fieldset>
+
+</div>
+</body>
+</html>
+

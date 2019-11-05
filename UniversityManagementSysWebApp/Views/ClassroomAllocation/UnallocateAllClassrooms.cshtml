@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "UnallocateAllClassrooms";
+}
+
+<fieldset>
+    <legend>Unallocate All Classrooms </legend>
+    <form action="UnallocateAllClassroomsPost" method="POST">
+        <table>
+            <tr>
+                <td>
+                    <button class="btn btn-primary" type="submit" onclick="return confirm('WARNING!! It will unallocate all the classroom. Do you want to continue?')">Unallocate Classrooms</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+    
+    
+</fieldset>
+

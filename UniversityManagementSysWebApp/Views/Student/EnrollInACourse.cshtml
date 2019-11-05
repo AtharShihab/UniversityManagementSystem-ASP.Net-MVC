@@ -1,0 +1,199 @@
+﻿@using UniversityManagementSysWebApp.Models
+@model UniversityManagementSysWebApp.Models.EnrollInACourse
+@{
+    ViewBag.Title = "EnrollInACourse";
+    List<Student> students = ViewBag.Students;
+}
+
+
+@section style
+{
+    <link href="~/Scripts/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet"/>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+}
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+<body>*@
+
+
+<fieldset>
+    <legend>Enroll In A Course</legend>
+    <form id="courseEnrollmentForm" method="POST">
+        <table>
+            <tr>
+                <td>
+                    <label for="StudentId">Student Reg. No.</label>
+                </td>
+                <td>
+                    <select id="StudentId" name="StudentId">
+                        <option value="">--Select--</option>
+                        @foreach (Student student in students)
+                        {
+                            <option value="@student.StudentId">@student.RegId</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="StudentName">Name</label>
+                </td>
+                <td>
+                    <input id="StudentName" name="StudentName" readonly="readonly" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="Email">Email</label>
+                </td>
+                <td>
+                    <input id="Email" name="Email" type="text" readonly="readonly"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="DepartmentId">Department</label>
+                </td>
+                <td>
+                    <input id="DepartmentId" name="DepartmentId" type="text" readonly="readonly"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="CourseId">Select Course</label>
+                </td>
+                <td>
+                    <select id="CourseId" name="CourseId">
+                        <option value="">--Select--</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="RegDate">Date</label>
+                </td>
+                <td>
+                    <input id="RegDate" name="RegDate" type="text" value="@DateTime.Today.ToString("MM/dd/yyyy")" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Enroll"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</fieldset>
+
+
+
+
+@*
+
+</body>
+</html>
+*@
+
+@section script
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $(document).ready(function() {
+
+            $("#StudentId").change(function () {
+
+                var studentId = $("#StudentId").val();
+                $("#StudentName").val("");
+                $("#Email").val("");
+                $("#DepartmentId").val("");
+
+                if (studentId !== "") {
+                    var json = { studentId: studentId };
+
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetStudentById", "Student")',
+
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function(data) {
+                            if (data != null) {
+                                $("#StudentName").val(data.StudentName);
+                                $("#Email").val(data.Email);
+                                $("#DepartmentId").val(data.DepartmentId);
+
+                                var departmentId = data.DepartmentId;
+
+                                if (departmentId !== "") {
+                                    var json2 = { deptId: departmentId };
+
+                                    $.ajax({
+                                        type: "POST",
+                                        url: '@Url.Action("GetAllCoursesWithDepartmentId", "Course")',
+
+                                        contentType: "application/json; charset=utf-8",
+                                        data: JSON.stringify(json2),
+                                        success: function(response) {
+
+                                            $("#CourseId").empty();
+                                            $("#CourseId").append('<option value="">--select--</option>');
+                                            $.each(response, function(key, value) {
+
+                                                $("#CourseId").append('<option value="' + value.CourseId + '">' + value.CourseCode + '</option>');
+
+                                            });
+                                        }
+                                    });
+                                } else {
+                                    $("#CourseId").empty();
+                                    $("#CourseId").append('<option value="">--select--</option>');
+                                }
+                            }
+                        }
+                    });
+                } else {
+                    $("#StudentName").val("");
+                    $("#Email").val("");
+                    $("#DepartmentId").val("");
+                }
+
+
+            });
+
+            @*==Datepicker==*@
+            $(function() {
+                $("#RegDate").datepicker({
+                    changeMonth: true,
+                    changeYear: true
+                });
+            });
+            @*==Datepicker==*@
+
+        });
+
+        $("#courseEnrollmentForm").validate({
+            rules: {
+                StudentId: "required",
+                CourseId: "required",
+                RegDate: "required"
+            },
+            messages: {
+                StudentId: "Please select your Id",
+                CourseId: "Please select the course you want to enrolled in",
+                RegDate: "Please enter a date"
+            }
+        });
+    </script>
+}
